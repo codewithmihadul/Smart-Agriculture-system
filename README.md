@@ -24,9 +24,4 @@ The "**Smart Irrigation System Using ESP32 & Blynk App**" is an IoT-based projec
 
 [![Watch the Tutorial](https://github.com/Circuit-Digest/Smart-Irrigation-System-Using-ESP32-Blynk-App/blob/main/Thumbnail%20Image/smart-irrigation-gif.gif)
 
-
-## 📝 License
-
-This project is released under The MIT License (MIT) © [CircuitDigest](https://github.com/circuit-digest)
-
 > "In the world of DIY, creativity knows no bounds." 🎨
